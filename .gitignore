@@ -123,6 +123,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-/data
-/post_pic
