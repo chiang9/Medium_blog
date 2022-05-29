@@ -123,4 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+/pyspark/task1_temp.ipynb
+/time_series/test*
+/time_series/data/archive.zip
