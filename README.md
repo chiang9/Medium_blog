@@ -11,6 +11,7 @@ The blog post contains more details of each approaches.
 - [Girvan–Newman — The Clustering Technique in Network Analysis Part 2]
 - [PySpark CheatSheet and More]
 - [A New Data Approach in Time Series Analysis]
+- [Time Series Modelling with a New Data Approach]
 
 ## Data Source
 We will be using the movielens dataset (ml-100k).
@@ -27,4 +28,4 @@ link: https://grouplens.org/datasets/movielens/
 [Girvan–Newman — The Clustering Technique in Network Analysis Part 2]: https://jchiang1225.medium.com/girvan-newman-the-clustering-technique-in-network-analysis-part-2-a62dfdde11e
 [PySpark CheatSheet and More]: https://jchiang1225.medium.com/pyspark-cheatsheet-and-more-a41b338c9d3e
 [A New Data Approach in Time Series Analysis]: https://medium.com/p/2d6c97f209cd
-
+[Time Series Modelling with a New Data Approach]: https://medium.com/p/e5a8e385a5be
